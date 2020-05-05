@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hpgame/static/css/main.cdc35d3c.chunk.css",
+    "main.js": "/hpgame/static/js/main.4b92ddae.chunk.js",
+    "main.js.map": "/hpgame/static/js/main.4b92ddae.chunk.js.map",
+    "runtime-main.js": "/hpgame/static/js/runtime-main.66ff9dad.js",
+    "runtime-main.js.map": "/hpgame/static/js/runtime-main.66ff9dad.js.map",
+    "static/js/2.a871daff.chunk.js": "/hpgame/static/js/2.a871daff.chunk.js",
+    "static/js/2.a871daff.chunk.js.map": "/hpgame/static/js/2.a871daff.chunk.js.map",
+    "index.html": "/hpgame/index.html",
+    "precache-manifest.51a9a369bbe4ac5ab2ffa5a0e2bf4ffd.js": "/hpgame/precache-manifest.51a9a369bbe4ac5ab2ffa5a0e2bf4ffd.js",
+    "service-worker.js": "/hpgame/service-worker.js",
+    "static/css/main.cdc35d3c.chunk.css.map": "/hpgame/static/css/main.cdc35d3c.chunk.css.map",
+    "static/js/2.a871daff.chunk.js.LICENSE.txt": "/hpgame/static/js/2.a871daff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66ff9dad.js",
+    "static/js/2.a871daff.chunk.js",
+    "static/css/main.cdc35d3c.chunk.css",
+    "static/js/main.4b92ddae.chunk.js"
+  ]
+}
